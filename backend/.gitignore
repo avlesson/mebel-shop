@@ -1,0 +1,6 @@
+.venv/
+__pycashe__/
+*/__pycashe__
+*/*/__pycashe__
+*/*/*/__pycashe__
+.env
